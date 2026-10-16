@@ -1,0 +1,6 @@
+{
+  "name": "Aura - Student Opportunity Platform",
+  "description": "Curated competitions, hackathons, fellowships, and academic grants tailored to ambitious students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
